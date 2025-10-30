@@ -16,8 +16,7 @@ The **Smart Street Lighting System** is an IoT-based solution designed to optimi
 - **IoT Devices**: Sensors (light, motion), microcontrollers (Arduino/Raspberry Pi)
 - **Communication Protocols**: Wi-Fi, MQTT
 - **Programming Languages**: C/C++ (Arduino), Python
-- **Cloud/Database**: Firebase / Cloud Dashboard for monitoring
-- **Optional**: Mobile or web dashboard for visualization and control
+- **Visual Dashboard**: Mobile or web dashboard for visualization and control(Blynk App)
 
 ---
 
@@ -39,8 +38,4 @@ The **Smart Street Lighting System** is an IoT-based solution designed to optimi
 
 ---
 
-## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
 
